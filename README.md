@@ -1,7 +1,5 @@
 # 微助教自动签到
 
-受[这篇文章](https://morrieati.github.io/hacking-teachermate-v1/)启发而写的一个功能更加完备的微助教自动签到脚本。
-
 ## 功能
 
 - 自动签到同一个用户（openid）所有开启签到的课
